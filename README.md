@@ -99,7 +99,7 @@ Random Forest was selected as the final model due to:
 
 ## 📎 Links
 
-- **Kaggle Notebook:** *(add your Kaggle notebook link here)*  
+- **Kaggle Notebook:** https://www.kaggle.com/code/indrajithsudusinghe/diabetes-prediction-using-ml-pima-dataset
 - **Dataset:** https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database  
 
 ---
@@ -110,8 +110,3 @@ Random Forest was selected as the final model due to:
 Data Analyst | Aspiring Data Scientist  
 
 ---
-
-## 🏁 Project Status
-
-✅ Completed  
-📌 Ready for Kaggle publishing and GitHub portfolio
