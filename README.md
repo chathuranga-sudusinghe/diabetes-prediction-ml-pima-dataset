@@ -106,7 +106,5 @@ Random Forest was selected as the final model due to:
 
 ## 👤 Author
 
-**Chathuranga**  
-Data Analyst | Aspiring Data Scientist  
-
+**Chathuranga**   
 ---
